@@ -4,7 +4,6 @@ import java.time.format.DateTimeFormatter;
 class Student {
         public void learn() {
                 System.out.println("Я учусь. .zZ");
-                // Другие действия, связанные с учёбой
         }
 }
 
